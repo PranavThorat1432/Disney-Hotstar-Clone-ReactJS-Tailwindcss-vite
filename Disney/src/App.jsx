@@ -5,6 +5,7 @@ import './App.css'
 import Header from './MyComponents/Header.jsx'
 import Slider from './MyComponents/Slider.jsx'
 import ProductionHouse from './MyComponents/ProductionHouse.jsx'
+import GenreMovieList from './MyComponents/GenreMovieList.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,8 @@ function App() {
         <Slider/>
 
         <ProductionHouse/>
+
+        <GenreMovieList/>
       </div>
     </>
   )

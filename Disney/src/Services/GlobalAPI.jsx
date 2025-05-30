@@ -8,5 +8,6 @@ const getTrendingVideos = () => {
 };
 
 export default {
-  getTrendingVideos
+  getTrendingVideos,
+  getMoviesByGenreId
 };
