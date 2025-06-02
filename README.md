@@ -1,7 +1,7 @@
 # 🎬 Disney+ UI Clone
 
 <p align="center">
-  <img src="..\Disney-Hotstar-Clone-ReactJS-Tailwindcss-vite\Disney\src\assets\img\Disney+_logo.svg" alt="Disney+" width="120"/>
+  ![disney+ ](https://github.com/user-attachments/assets/3ca39687-1d0b-45a5-879a-757d04fb6341)
 </p>
 
 <p align="center">
@@ -42,8 +42,12 @@
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![alt text](desktop-1.jpg) | ![alt text](mob-1.jpg) |
-| ![alt text](desktop-2.jpg) | ![alt text](mob-2.jpg)
+| ![desktop-1](https://github.com/user-attachments/assets/ad2fc4f4-eae9-454f-b459-c6d25077beec)
+ | ![mob-1](https://github.com/user-attachments/assets/78ce1f04-1181-41ab-af99-4d5fe476534c)
+ |
+| ![desktop-2](https://github.com/user-attachments/assets/d555fdab-c3ff-489b-a63d-56c17941ff2d)
+ | ![mob-2](https://github.com/user-attachments/assets/419ab93f-2741-4fed-9725-7d3aa18af726)
+
 
 ----
 
