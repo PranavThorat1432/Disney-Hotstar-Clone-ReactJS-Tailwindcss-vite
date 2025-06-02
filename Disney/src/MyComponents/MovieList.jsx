@@ -29,26 +29,18 @@ function MovieList({genreID, index_}) {
 
 
     return (
-        <div className="relative">
-            <div className="flex items-center">
-                <IoChevronBackOutline
-                    onClick={() => slideLeft(elementRef.current)}
-                    className="text-[50px] text-white p-2 z-10 cursor-pointer hidden md:block"
-                />
+        <div className='relative'>
+            <IoChevronBackOutline onClick={()=>slideLeft(elementRef.current)} className={`text-[50px] text-white p-2 z-10 cursor-pointer hidden md:block absolute ${index_%3==0?'mt-[70px]':'mt-[150px]'} `}/>
+   
+        <div ref={elementRef} className='flex overflow-x-auto gap-8 no-scrollbar scroll-smooth pt-4 px-3 pb-4'>
+            {MovieList.map((item,index)=>(
+                <>
+                {index_%3==0?<HrMovieCard movie={item}/>:<MovieCard movie={item} />}
+                </> 
+            ))}
 
-                <div ref={elementRef} className="flex overflow-x-auto gap-8 pt-5 px-3 pb-10 no-scrollbar scroll-smooth flex-1">
-                    {MovieList.map((item, index) => (
-                        <React.Fragment key={item.id || index}>
-                            {index_%3==0 ? <HrMovieCard movie={item}/> : <MovieCard movie={item} />}
-                        </React.Fragment>
-                    ))}
-                </div>
-
-                <IoChevronForwardOutline
-                    onClick={() => slideRight(elementRef.current)}
-                    className="text-[50px] text-white p-2 z-10 cursor-pointer hidden md:block"
-                />
-            </div>
+        </div>
+            <IoChevronForwardOutline onClick={()=>slideRight(elementRef.current)} className={`text-[50px] text-white hidden md:block p-2 cursor-pointer z-10 top-0 absolute right-0 ${index_%3==0?'mt-[70px]':'mt-[150px]'}`}/> 
         </div>
     )
 }
