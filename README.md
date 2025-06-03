@@ -30,6 +30,7 @@
 - [🧩 Component Overview](#-component-overview)
 - [🌐 Deployment](#-deployment)
 - [🧠 Learnings](#-learnings)
+- [📈 Future Improvements](#-future-improvements)
 - [📜 License](#-license)
 - [👨‍💻 Author](#-author)
 
@@ -183,6 +184,7 @@ This project is licensed under the **MIT License**.
 * 📧 Email: [Click Here](mailto:pranavthorat95@gmail.com)
 * 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/curiouspranavthorat/)
 * 🐱 GitHub: [Click Here](https://github.com/PranavThorat1432)
+* 🔗 Live Preview: [Click Here](https://disney-hotstar-clone-epek.vercel.app/)
 
 ----
 
