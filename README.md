@@ -30,6 +30,7 @@
 - [🧩 Component Overview](#-component-overview)
 - [🌐 Deployment](#-deployment)
 - [🧠 Learnings](#-learnings)
+- [📈 Future Improvements](#-future-improvements)
 - [📜 License](#-license)
 - [👨‍💻 Author](#-author)
 
@@ -40,10 +41,13 @@
 
 > Responsive and interactive UI inspired by the Disney+ web platform.
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![alt text](desktop-1.jpg) | ![alt text](mob-1.jpg) |
-| ![alt text](desktop-2.jpg) | ![alt text](mob-2.jpg)
+
+| Desktop                                                                                       | Mobile                                                                                    |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![desktop-1](https://github.com/user-attachments/assets/ad2fc4f4-eae9-454f-b459-c6d25077beec) | ![mob-1](https://github.com/user-attachments/assets/78ce1f04-1181-41ab-af99-4d5fe476534c) |
+| ![desktop-2](https://github.com/user-attachments/assets/d555fdab-c3ff-489b-a63d-56c17941ff2d) | ![mob-2](https://github.com/user-attachments/assets/419ab93f-2741-4fed-9725-7d3aa18af726) |
+
+
 
 ----
 
@@ -180,6 +184,7 @@ This project is licensed under the **MIT License**.
 * 📧 Email: [Click Here](mailto:pranavthorat95@gmail.com)
 * 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/curiouspranavthorat/)
 * 🐱 GitHub: [Click Here](https://github.com/PranavThorat1432)
+* 🔗 Live Preview: [Click Here](https://disney-hotstar-clone-epek.vercel.app/)
 
 ----
 
