@@ -1,7 +1,7 @@
 # 🎬 Disney+ UI Clone
 
 <p align="center">
-  <img src="..\Disney-Hotstar-Clone-ReactJS-Tailwindcss-vite\Disney\src\assets\img\disney+ .png" alt="Disney+" width="120"/>
+  <img src="Disney/src/assets/img/disney+ .png" alt="Disney+" width="120"/>
 </p>
 
 <p align="center">
